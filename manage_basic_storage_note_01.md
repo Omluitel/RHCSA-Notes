@@ -35,7 +35,7 @@
    ```bash
    xfs
    ```
-8. **File size range**
+8. **File size range** test
    ```bash
    If disk is new, use 0% at start and end with 1.2 G (upto you)
    ```
